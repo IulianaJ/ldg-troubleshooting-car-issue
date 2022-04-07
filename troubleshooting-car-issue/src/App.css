@@ -1,0 +1,17 @@
+.App {
+  top: 40%;
+  left: 40%;
+  transform: translate(-40%, -40%);
+  position: absolute;
+}
+
+button {
+  width: 50px;
+  margin: 10px;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
